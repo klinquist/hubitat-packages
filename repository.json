@@ -1,0 +1,15 @@
+{
+    "author": "Kris Linquist (klinquist)",
+    "gitHubUrl": "https://github.com/klinquist",
+    "packages": [
+        {
+            "name": "Rheem EcoNet Integration (maintained)",
+            "tags": [
+                "Temperature & Humidity",
+                "Water Heater"
+            ],
+            "location": "https://raw.githubusercontent.com/klinquist/hubitat-rheem/main/packageManifest.json",
+            "description": "App and driver for Rheem EcoNet supported water heaters and thermostats."
+        }
+    ]
+}
